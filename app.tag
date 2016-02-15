@@ -19,5 +19,7 @@
 </cookbook>
 
 <ingredient>
-	<span>this is an ingredient</span>
+	<h3>this is an ingredient</h3>
+	<p>name: {opts.name}<br/>
+	ammount: {opts.ammount}</p>
 </ingredient>
